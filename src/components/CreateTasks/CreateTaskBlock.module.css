@@ -1,0 +1,42 @@
+.addBlock {
+    width: 95%;
+    height: 95%;
+    background-color: none;
+    border-radius: 10px;
+    position: fixed;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.createName {
+    height: 20%;
+    margin-top: 10%;
+}
+
+.createAbout {
+    height: 40%;
+    margin-top: 20%;
+}
+
+
+.blockButton {
+    width: 40%;
+    height: 10%;
+    position: fixed;
+    bottom: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.blockButton button {
+    position: relative;
+    width: 90%;
+    height: 100%;
+    border-radius: 10px;
+    border: solid 1px rgb(97, 194, 118);
+    background-color: #11131f;
+    color: rgb(97, 194, 118);
+}
